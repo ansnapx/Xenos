@@ -16,7 +16,6 @@
 #define IDR_DRV7                        142
 #define IDR_DRV8                        147
 #define IDR_DRV81                       149
-#define IDR_DRIVER1                     150
 #define IDR_DRV10                       150
 #define IDC_EDIT_MAIN                   1000
 #define IDC_EXECUTE                     1001
